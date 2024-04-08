@@ -3,8 +3,8 @@
     <channel>
         <title>行云小院</title>
         <subtitle></subtitle>
-        <icon>http://example.com/assets/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>https://simplechun.top/assets/favicon.ico</icon>
+        <link>https://simplechun.top</link>
         <author>
           <name>一树梨花白</name>
         </author>
@@ -13,9 +13,9 @@
         <pubDate>Mon, 08 Apr 2024 20:50:13 +0800</pubDate>
         <lastBuildDate>Mon, 08 Apr 2024 20:50:13 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2024/04/08/hello-world/</guid>
+            <guid isPermalink="true">https://simplechun.top/2024/04/08/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2024/04/08/hello-world/</link>
+            <link>https://simplechun.top/2024/04/08/hello-world/</link>
             <pubDate>Mon, 08 Apr 2024 20:50:13 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
