@@ -8,31 +8,12 @@
     <author>
       <name>一树梨花白</name>
     </author>
-    <updated>2024-04-10T05:56:28.926Z</updated>
+    <updated>2024-04-09T16:00:00.000Z</updated>
     <entry>
         <id>https://simplechun.top/2024/04/10/C_basic/%E6%8C%87%E9%92%88/</id>
-        <title></title>
+        <title>指针</title>
         <link rel="alternate" href="https://simplechun.top/2024/04/10/C_basic/%E6%8C%87%E9%92%88/"/>
-        <content type="html">&lt;p&gt;指针&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;title: 文章标题&lt;br /&gt;
- date: 文章发布的时间&lt;br /&gt;
- comment: true   # true/false 对应开启 / 关闭本文章评论&lt;br /&gt;
- sticky  : true   # 置顶文章&lt;br /&gt;
- tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;C&lt;br /&gt;
-categories:
-&lt;ul&gt;
-&lt;li&gt;[C 语言基础]&lt;br /&gt;
-audio:&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://music.163.com/song?id=1387098940&#34;&gt;https://music.163.com/song?id=1387098940&lt;/a&gt;&lt;br /&gt;
-audio: false&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h1 id=&#34;1-指针是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-指针是什么&#34;&gt;#&lt;/a&gt; 1. 指针是什么？&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;1-指针是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-指针是什么&#34;&gt;#&lt;/a&gt; 1. 指针是什么？&lt;/h1&gt;
 &lt;p&gt;​	可以这么理解，计算机内存通过字节单位分成每一格，每一格代表一个字节，而 64 位的计算机中 int 型占四个字节，float 型占 4 个字节，double 型占 8 个字节，char 型占一个字节，指针占 8 个字节，相当于，存储的每一个数据用指针表示时，都占用八个字节，而每一个数据的用指针表示时，指针都指向的是他们的首地址&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;指针表示的就是数据在内存中的地址&lt;/li&gt;
@@ -57,7 +38,9 @@ audio: false&lt;/li&gt;
 &lt;li&gt;指针与指针之间的加减&lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <updated>2024-04-10T05:56:28.926Z</updated>
+        <category term="C语言基础" scheme="https://simplechun.top/categories/C-basic/" />
+        <category term="C" scheme="https://simplechun.top/tags/C/" />
+        <updated>2024-04-09T16:00:00.000Z</updated>
     </entry>
     <entry>
         <id>https://simplechun.top/2024/04/08/hello-world/</id>
